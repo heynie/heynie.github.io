@@ -2,7 +2,7 @@ title:             Hello Universe!
 email:             hyeinkooo@gmail.com
 description:       A Blog by heynie
 author:            Heynie
-baseurl:           ""
+#baseurl:           ""
 url:               "http://heynie.github.io"
 
 # Social Profiles
