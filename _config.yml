@@ -1,0 +1,19 @@
+title:             Heynie
+email:             hyeinkooo@gmail.com
+description:       A Blog by Heynie
+author:            heynie
+baseurl:           ""
+url:               "http://heynie.github.io"
+
+# Social Profiles
+#twitter_username:  SBootstrap
+github_username:   heynie
+#facebook_username: StartBootstrap
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
