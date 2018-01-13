@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About Me
-description: This is what I do.
+description: 나를 소개합니다
 background: '/img/bg-about.jpg'
 ---
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur!</p>
+<p>프로그래밍을 시작한지 얼마 되지 않은 ~~초보개발자~~</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex alias, earum consectetur quia natus ducimus voluptate explicabo, hic porro reprehenderit, quasi? Tenetur ipsum distinctio laboriosam perspiciatis officiis dolore, architecto id.</p>
 
