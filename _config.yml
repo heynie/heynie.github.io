@@ -3,7 +3,7 @@ email:             hyeinkooo@gmail.com
 description:       안녕!
 author:            Heynie
 #baseurl:           ""
-url:               "http://heynie.github.io"
+url:               "https://heynie.github.io"
 
 # Social Profiles
 #twitter_username:  SBootstrap
@@ -18,4 +18,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-# Categories
+disqus: heynie

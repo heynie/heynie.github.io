@@ -16,19 +16,28 @@
   border-radius: 0;
   background-color: rgba(150, 150, 150, 0);
   border: 0;
-  text-align: center;
+  text-align: center !important;
+  margin-top: 8%;
 }
 
 .dd-item-custom {
   width: 60%;
-  color: #fff;
+  color: white !important;
   font-family: Open Sans;
   font-weight: 800;
   font-size: 0.75rem;
   letter-spacing: 0.05rem;
   padding: 10px;
-  .dd-item-custom:hover, .dd-item-custom:focus, .dd-item-custom:active {
-    background-color: inherit;
-    color: inherit;
+  &:hover, &:focus, &:active {
+    background-color: rgba(0,0,0,0.3);
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .dd-menu-custom {
+    text-align: left;
+  }
+  .dd-item-custom {
+    color: black;
   }
 }
