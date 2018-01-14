@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e07753d1-e26f-4564-8815-a1576cccdc26" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_layouts/category.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/3e60ae54bc6f6bb3279732eae9ef4762a320c3d4/_navbar.scssc" afterPath="$PROJECT_DIR$/.sass-cache/3e60ae54bc6f6bb3279732eae9ef4762a320c3d4/_navbar.scssc" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change beforePath="$PROJECT_DIR$/_includes/navbar.html" afterPath="$PROJECT_DIR$/_includes/navbar.html" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
       <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-30-heartbeats.html" afterPath="$PROJECT_DIR$/_posts/2017-10-30-heartbeats.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-31-man-must-explore.html" afterPath="$PROJECT_DIR$/_posts/2017-10-31-man-must-explore.html" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-01-13-first.md" afterPath="$PROJECT_DIR$/_posts/2018-01-13-first.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-14-second-midnight.md" afterPath="$PROJECT_DIR$/_posts/2018-01-14-second-midnight.md" />
       <change beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
-      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change beforePath="$PROJECT_DIR$/img/bg-index.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/main.scss" afterPath="$PROJECT_DIR$/assets/main.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_navbar.scss" afterPath="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_navbar.scss" />
+      <change beforePath="$PROJECT_DIR$/posts/index.html" afterPath="$PROJECT_DIR$/posts/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,127 +27,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sitemap.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sitemap.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-01-13-first.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-13-first.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="637">
-                <caret line="112" column="4" lean-forward="false" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/navbar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/main.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="2886" column="21" lean-forward="true" selection-start-line="2886" selection-start-column="21" selection-end-line="2886" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="navbar.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_includes/navbar.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="495">
+                  <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/assets/main.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>screen</find>
       <find>nav</find>
-      <find>dropdown</find>
-      <find>dropdown-menu</find>
       <find>hover</find>
       <find>.dropdown</find>
+      <find>outline</find>
       <find>dropdown-toggle</find>
+      <find>/*</find>
+      <find>7b !important</find>
+      <find>border-color: #00657b !important;</find>
+      <find>dropdown</find>
+      <find>nav-item</find>
+      <find>font</find>
+      <find>font:</find>
+      <find>dropdown-menu</find>
+      <find>font-family</find>
+      <find>family</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,16 +87,29 @@
         <option value="$PROJECT_DIR$/_posts/2018-01-13-first-post.md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-13-another.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/posts/index.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_navbar.scss" />
+        <option value="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/posts/category1.html" />
+        <option value="$PROJECT_DIR$/posts/category2.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_layouts/category.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-31-man-must-explore.html" />
+        <option value="$PROJECT_DIR$/category/example.html" />
+        <option value="$PROJECT_DIR$/category/category1.html" />
+        <option value="$PROJECT_DIR$/category/diary.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-14-second-midnight.md" />
+        <option value="$PROJECT_DIR$/posts/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-30-heartbeats.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2018-01-13-first.md" />
-        <option value="$PROJECT_DIR$/about.md" />
-        <option value="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/category/info.html" />
+        <option value="$PROJECT_DIR$/_layouts/home.html" />
+        <option value="$PROJECT_DIR$/assets/main.scss" />
         <option value="$PROJECT_DIR$/_includes/navbar.html" />
       </list>
     </option>
@@ -205,6 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -221,56 +172,26 @@
             <path>
               <item name="heynie.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="heynie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heynie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heynie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heynie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heynie.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heynie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heynie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heynie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heynie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heynie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heynie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="heynie.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heynie.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/category" />
+      <recent name="$PROJECT_DIR$/posts/category" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/posts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -306,22 +227,41 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13541667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13541667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -331,35 +271,51 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-13-first-post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="33" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-man-must-explore.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="1095">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/screenshot.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43290">
+          <caret line="2886" column="21" lean-forward="true" selection-start-line="2886" selection-start-column="21" selection-end-line="2886" selection-end-column="21" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+    <entry file="file://$PROJECT_DIR$/_sass/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-13-first-post.md" />
+    <entry file="file://$PROJECT_DIR$/screenshot.png" />
+    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -367,54 +323,197 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-29-prophecy.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-29-prophecy.html" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-28-exploration.html" />
+    <entry file="file://$PROJECT_DIR$/../first/markdown.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../first/pypy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-28-exploration.html">
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/scripts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-562">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/posts/index.html">
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="303">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22917">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="330">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_bootstrap-overrides.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_masthead.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="63" column="13" lean-forward="false" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="5" column="1059" lean-forward="false" selection-start-line="5" selection-start-column="1059" selection-end-line="5" selection-end-column="1059" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="3759" column="37" lean-forward="true" selection-start-line="3759" selection-start-column="37" selection-end-line="3759" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/_post.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -427,78 +526,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="195">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-man-must-explore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="186" lean-forward="false" selection-start-line="11" selection-start-column="186" selection-end-line="11" selection-end-column="186" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../first/markdown.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-14-second-midnight.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../first/pypy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />
@@ -508,51 +572,102 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-13-first.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="637">
-            <caret line="112" column="4" lean-forward="false" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/main.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="2886" column="21" lean-forward="true" selection-start-line="2886" selection-start-column="21" selection-end-line="2886" selection-end-column="21" />
+        <state relative-caret-position="163">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#1664#1670#0" expanded="false" />
+            <element signature="e#1670#1676#0" expanded="false" />
+            <element signature="e#1677#1683#0" expanded="false" />
+            <element signature="e#1683#1689#0" expanded="false" />
+            <element signature="e#1689#1695#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="e#712#718#0" expanded="false" />
+            <element signature="e#718#724#0" expanded="false" />
+            <element signature="e#725#731#0" expanded="false" />
+            <element signature="e#731#737#0" expanded="false" />
+            <element signature="e#737#743#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-30-heartbeats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/diary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="495">
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
           <folding />
         </state>
       </provider>

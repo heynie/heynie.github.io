@@ -26,6 +26,14 @@ layout: default
             {% endif %}
             <!--<a href="#">Start Bootstrap</a>-->
             on {{ page.date | date: '%B %d, %Y' }}</span>
+          <!-- 추가 -->
+          <br>
+          <span class="meta">
+            {% if page.categories %}
+              {{ page.categories }}
+            {% endif %}
+          </span>
+          <!-- 또 안 돼 ㅜㅜ -->
         </div>
       </div>
     </div>

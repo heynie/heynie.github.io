@@ -14,8 +14,18 @@
         <li class="nav-item">
           <a class="nav-link" href="{{"/about" | relative_url }}">About</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/posts" | relative_url }}">Posts</a>
+        <!--<li class="nav-item">-->
+          <!--<a class="nav-link" href="{{"/posts" | relative_url }}">Posts</a>-->
+        <!--</li>-->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle nav-dd-custom" href="{{"/posts" | relative_url }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Posts</a>
+          <div class="dropdown-menu dd-menu-custom">
+            <a class="dropdown-item dd-item-custom" href="{{"/posts" | relative_url }}">All</a>
+            <a class="dropdown-item dd-item-custom" href="{{"/category/info" | relative_url }}">INFO</a>
+            <!--<div class="dropdown-divider"></div>-->
+            <a class="dropdown-item dd-item-custom" href="{{"/category/diary" | relative_url }}">DIARY</a>
+            <a class="dropdown-item dd-item-custom" href="{{"/category/example" | relative_url }}">EXAMPLE</a>
+          </div>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
@@ -27,12 +37,15 @@
 
 
 
-        <!--<li class="nav-item dropdown">-->
-          <!--<a class="nav-link dropdown-toggle" href="{{"/posts" | relative_url }}" data-toggle="dropdown">Posts</a>-->
-          <!--<div class="dropdown-menu">-->
-            <!--<a class="dropdown-item" href="#">category1</a>-->
-            <!--<a class="dropdown-item" href="#">category2</a>-->
-            <!--<div class="dropdown-divider"></div>-->
-            <!--<a class="dropdown-item" href="#">category3</a>-->
+        <!--<li class="nav-item px-lg-3 dropdown">-->
+          <!--<a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" lang="en">-->
+            <!--Shop-->
+          <!--</a>-->
+          <!--<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">-->
+            <!--<a class="dropdown-item pl-0 pl-lg-3" href="#" lang="en">Outer</a>-->
+            <!--<a class="dropdown-item pl-0 pl-lg-3" href="#" lang="en">Top</a>-->
+            <!--<a class="dropdown-item pl-0 pl-lg-3" href="#" lang="en">Bottom</a>-->
+            <!--<a class="dropdown-item pl-0 pl-lg-3" href="#" lang="en">Accessories</a>-->
+            <!--<a class="dropdown-item pl-0 pl-lg-3" href="#" lang="en">Etc</a>-->
           <!--</div>-->
         <!--</li>-->

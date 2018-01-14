@@ -2564,7 +2564,7 @@ fieldset[disabled] a.btn {
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
   background-color: #007bff;
-  border-color: #007bff;
+  border-color: #007bff;  /* 이거 고쳐도 안 됨 */
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
 }
 
@@ -2938,7 +2938,7 @@ tbody.collapse.show {
   padding: 0.25rem 1.5rem;
   clear: both;
   font-weight: 400;
-  color: #212529;
+  color: #fff; /*#212529;*/
   text-align: inherit;
   white-space: nowrap;
   background: none;

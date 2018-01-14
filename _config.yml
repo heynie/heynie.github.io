@@ -1,6 +1,6 @@
 title:             Hello Universe!
 email:             hyeinkooo@gmail.com
-description:       A Blog by heynie
+description:       안녕!
 author:            Heynie
 #baseurl:           ""
 url:               "http://heynie.github.io"
@@ -17,3 +17,5 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+# Categories

@@ -4,7 +4,8 @@ title:      "잠도 오지 않는 밤에"
 subtitle:   "슬픈 노래는 듣고 싶지 않아"
 date:       2018-01-14 02:00:20 +0900
 background: '/img/universe.jpg'
-comments:   true
+comments:   false
+categories: diary
 ---
 
 언제지... 한 10년 전쯤에 처음 알게 된 노래였는데 최근에 아이유가 불러서 또 자주 들었던 것 같다.

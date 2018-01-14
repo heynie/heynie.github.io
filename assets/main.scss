@@ -3,3 +3,32 @@
 ---
 
 @import "styles";
+
+
+
+
+.nav-dd-custom {
+  border: 0;
+  outline: 0;
+}
+
+.dd-menu-custom {
+  border-radius: 0;
+  background-color: rgba(150, 150, 150, 0);
+  border: 0;
+  text-align: center;
+}
+
+.dd-item-custom {
+  width: 60%;
+  color: #fff;
+  font-family: Open Sans;
+  font-weight: 800;
+  font-size: 0.75rem;
+  letter-spacing: 0.05rem;
+  padding: 10px;
+  .dd-item-custom:hover, .dd-item-custom:focus, .dd-item-custom:active {
+    background-color: inherit;
+    color: inherit;
+  }
+}

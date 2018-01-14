@@ -48,7 +48,13 @@ layout: default
                 {{ site.author }}
               {% endif %}
               on
-              {{ post.date | date: '%B %d, %Y' }}</p>
+              {{ post.date | date: '%B %d, %Y' }}
+              <!-- 추가 -->
+              {% if post.categories %}
+                &nbsp;&nbsp;─&nbsp;&nbsp;&nbsp;{{ post.categories }}
+              {% endif %}
+              <!-- -->
+            </p>
           </article>
 
           <hr>
