@@ -17,7 +17,7 @@ categories: info
 
 블로그에도 많은 종류가 있다. 가장 먼저 떠오르는 네이버 블로그, 구글링하면서 자주 들어가게 되는 티스토리 등등 다양한 종류가 있는데 나는 마크다운으로 깔끔하게 내용을 작성하고 싶어서 Github Pages를 선택했다. 블로그 선택을 하기 전에 구글링을 많이 해보았는데, [여기](http://blog.kalkin7.com/2015/07/07/maintain-a-blog-for-a-long-time/)에서 깔끔하게 정리된 설명을 참고할 수 있다.
 
-Github pages로 블로그를 만들고 포스트를 작성하려면 간단하게 마크다운 파일을 작성하고, github에 올리기만 하면 되므로 매우 간단하다. 만약 Git 사용법을 모른다면 [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)을 참고하면 된다.
+Github pages로 블로그를 만들고 포스트를 작성하려면 마크다운 파일을 작성하고, github에 올리기만 하면 되므로 매우 간단하다. 만약 Git 사용법을 모른다면 [누구나 쉽게 이해할 수 있는 Git 입문](https://backlog.com/git-tutorial/kr/)을 참고하면 된다.
 
 블로그를 꾸미기 위해서 jekyll을 이용하였다. jekyll 테마를 다운로드 받아 사용하면 내가 일일이 디자인을 하지 않아도 되기 때문이다. 원한다면 customizing을 할 수도 있다. [jekyll themes](http://jekyllthemes.org)에서 마음에 드는 테마를 골라 다운로드 받거나, 해당 테마의 github repository로 이동하여 fork하면 된다.
 
@@ -50,15 +50,15 @@ $ curl -sSL https://get.rvm.io | bash -s stable --ruby
 <br>
 
 #### (2-1) Update Ruby
-mac에 내장되어 있는 ruby가 있는데, 나의 경우 나중에 gemfile을 설치할 때 버전 업데이트가 필요했기 때문에 다시 install했다.
+mac에 내장되어 있는 ruby가 있는데, 나의 경우 나중에 gemfile을 설치할 때 버전 업데이트가 필요했기 때문에 다시 install했다. (Skip해도 됨)
 ```buildoutcfg
-$ rvm install ruby-2.4.2
+$ rvm install ruby-2.2.5
 ```
 <br>
 
 #### (3) Install Jekyll
 ```buildoutcfg
-$ sudo gem install jekyll
+$ gem install jekyll
 ```
 <br>
 
@@ -92,7 +92,7 @@ post는 html로 작성할 수도 있고, markdown으로 작성할 수도 있다.
 
 1. 제목은 **YYYY-MM-DD-\<filename\>.md**
 
-2. 파일의 맨 위에 다음을 입력하여 post 정보를 등록해야 한다.
+2. 내용을 작성하기 전, 파일의 맨 위에 YAML front matter를 입력하여 post 정보를 등록해야 한다.
 
 ```buildoutcfg
 ---

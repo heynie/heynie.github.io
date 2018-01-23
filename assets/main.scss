@@ -22,14 +22,10 @@
   text-align: center !important;
   margin-top: 8%;
   margin: 0 auto;
-  padding: 0;
+  padding-top: 7px;
   min-width: 0 !important;
 }
 
-.dd-menu-custom.show {
-  margin: 0 auto;
-  padding: 0;
-}
 
 .dd-item-custom {
 
@@ -41,6 +37,7 @@
   padding: 10px 20px;
   margin: 0 auto !important;
   &:hover, &:focus, &:active {
+    color: white;
     background-color: rgba(0,0,0,0.3);
   }
 }

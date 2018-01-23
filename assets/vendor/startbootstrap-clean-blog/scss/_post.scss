@@ -14,11 +14,12 @@
     }
     > .post-subtitle {
       font-weight: 300;
+      font-size: 25px;
       margin: 0 0 10px;
     }
   }
   > .post-meta {
-    font-size: 18px;
+    font-size: 15px;
     font-style: italic;
     margin-top: 0;
     color: $gray-600;
@@ -35,7 +36,7 @@
   @media only screen and (min-width: 768px) {
     > a {
       > .post-title {
-        font-size: 36px;
+        font-size: 30px;
       }
     }
   }
