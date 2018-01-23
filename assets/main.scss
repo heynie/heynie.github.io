@@ -5,9 +5,12 @@
 @import "styles";
 
 
-
-
 .nav-dd-custom {
+  padding: 0;
+
+}
+
+.dd-post-custom {
   border: 0;
   outline: 0;
 }
@@ -18,26 +21,41 @@
   border: 0;
   text-align: center !important;
   margin-top: 8%;
+  margin: 0 auto;
+  padding: 0;
+  min-width: 0 !important;
+}
+
+.dd-menu-custom.show {
+  margin: 0 auto;
+  padding: 0;
 }
 
 .dd-item-custom {
-  width: 60%;
-  color: white !important;
+
+  color: white;
   font-family: Open Sans;
   font-weight: 800;
   font-size: 0.75rem;
   letter-spacing: 0.05rem;
-  padding: 10px;
+  padding: 10px 20px;
+  margin: 0 auto !important;
   &:hover, &:focus, &:active {
     background-color: rgba(0,0,0,0.3);
   }
 }
 
-@media only screen and (min-width: 992px) {
+
+
+@media all and (max-width: 992px) {
   .dd-menu-custom {
-    text-align: left;
+    text-align: left !important;
   }
   .dd-item-custom {
-    color: black;
+    color: #888;
+    &:hover, &:focus, &:active {
+      background-color: rgba(0,0,0,0);
+      color: #222;
+    }
   }
 }
