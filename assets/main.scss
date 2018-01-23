@@ -45,9 +45,15 @@
   }
 }
 
+.dropdown-divider{
+  margin: 5px 0px;
+}
 
 
 @media all and (max-width: 992px) {
+  .nav-item {
+    padding: 10px 0px;
+  }
   .dd-menu-custom {
     text-align: left !important;
   }
@@ -57,5 +63,8 @@
       background-color: rgba(0,0,0,0);
       color: #222;
     }
+  }
+  .dropdown-divider{
+    margin: 3px 0px;
   }
 }
