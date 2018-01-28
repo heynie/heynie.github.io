@@ -62,7 +62,7 @@ categories: category1
 <br>
 # 3. Front 수정하기
 
-category 페이지를 어떻게 보여줄 것인지는 자유롭게 선택하면 된다. 카테고리 하나하나 Navbar Sidebar에 띄울 수도 있고, 나처럼 dropdown을 활용할 수도 있다. 만약 bootstrap으로 만든 페이지라면 [getbootstrap.com](https://getbootstrap.com)에 들어가서 Documentation \> Components \> Navbar 페이지에서 dropdown을 이용할 수 있다. 어려운 건 CSS를 수정하는 것이다. 처음 dropdown을 달았을 때 테마랑 따로 놀아서 하나하나 고치는 데 애를 먹었다&#128575; ~~그리고 여전히 엉망진창이다...~~
+category 페이지를 어떻게 보여줄 것인지는 자유롭게 선택하면 된다. 카테고리 하나하나 Navbar나 Sidebar에 띄울 수도 있고, 나처럼 dropdown을 활용할 수도 있다. 만약 bootstrap으로 만든 페이지라면 [getbootstrap.com](https://getbootstrap.com)에 들어가서 Documentation \> Components \> Navbar 페이지에서 dropdown을 이용할 수 있다. 어려운 건 CSS를 수정하는 것이다. 처음 dropdown을 달았을 때 테마랑 따로 놀아서 하나하나 고치는 데 애를 먹었다&#128575; ~~그리고 여전히 엉망진창이다...~~
 
 
 사실 이것도 시행착오를 겪은 거라 지금 이렇게 정리해놓은 게 맞는지 잘 모르겠다. 빼먹은 단계가 있을 수도 있고... (ㅠㅠ) 나중에 다시 확인해봐야겠다.

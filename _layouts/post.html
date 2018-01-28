@@ -17,13 +17,14 @@ layout: default
           {% if page.subtitle %}
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
-          <span class="meta">Posted by
+          <span class="meta">Posted
+            <!--by-->
             <!-- 수정했다 -->
-            {% if post.author %}
-              {{ post.author }}
-            {% else %}
-              {{ site.author }}
-            {% endif %}
+            <!--{% if post.author %}-->
+              <!--{{ post.author }}-->
+            <!--{% else %}-->
+              <!--{{ site.author }}-->
+            <!--{% endif %}-->
             <!--<a href="#">Start Bootstrap</a>-->
             on {{ page.date | date: '%B %d, %Y' }}</span>
           <!-- 추가 -->
