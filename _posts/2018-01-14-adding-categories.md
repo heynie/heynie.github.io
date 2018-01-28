@@ -5,7 +5,7 @@ subtitle:   "카테고리를 추가하자!"
 date:       2018-01-14 17:28:00 +0900
 background: '/img/universe.jpg'
 comments:   true
-categories: info
+categories: etc
 lcb: "{"
 ---
 

@@ -5,7 +5,7 @@ subtitle:   "블로그를 만들어 보자!"
 date:       2018-01-13 20:20:20 +0900
 background: '/img/universe.jpg'
 comments:   true
-categories: info
+categories: etc
 ---
 
 
@@ -53,6 +53,9 @@ $ curl -sSL https://get.rvm.io | bash -s stable --ruby
 mac에 내장되어 있는 ruby가 있는데, 나의 경우 나중에 gemfile을 설치할 때 버전 업데이트가 필요했기 때문에 다시 install했다. (Skip해도 됨)
 ```buildoutcfg
 $ rvm install ruby-2.2.5
+```
+```buildoutcfg
+$ rvm --default use 2.2.5
 ```
 <br>
 
