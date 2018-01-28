@@ -11,8 +11,9 @@ categories: bash
 최근에 ubuntu bash를 사용했는데 기본적으로 폰트에 색깔이 있는 것을 보고 내 bash도 꾸미고 싶어졌다. 색깔이 마음에 쏙 드는 건 아니지만 똑같은 색깔로 나오는 것보다는 보기 편해서 너무 좋다! 방법도 아주 간단하다.
 
 <br>
-## 1
-*.bash_profile* 파일에 다음을 추가하고,
+## 방법
+
+*.bash_profile* 파일에 다음을 추가하면 끝!
 
 ```buildoutcfg
 export CLICOLOR=1
@@ -22,20 +23,20 @@ PS1='\[\e[0;33m\]\u\[\e[0m\]@\[\e[0;32m\]\h\[\e[0m\]:\[\e[0;34m\]\w\[\e[0m\]\$ '
 ```
 <br>
 
-## 2
-*.bashrc* 파일에 다음을 추가한다.
-```buildoutcfg
-source ~/.bash_profile
-```
-<br>
 <img src="/img/coloring-bash.png" alt="coloring bash" width="100%">
 
 완성!
 
 <br>
+
+여담)<br>
+처음엔 *.bash_profile*을 작성하고*.bashrc*에 `source ~/.bash_profile`을 추가했는데, *.bashrc*에 환경변수 설정한 것들이 실행이 안 되길래 알아봤더니 *.bash_profile*만 인식되는 상황이었다. 그래서 *.bashrc*에 입력한 것들을 다 *.bash_profile*로 옮겼다.
+
+
+<br>
 ## + 색깔 바꾸기
 
-다른 거는 아직 잘 모르겠고 LSCOLORS를 바꾸는 법은 찾아냈다!
+다른 건 아직 잘 모르겠고 LSCOLORS를 바꾸는 법은 찾아냈다!
 
 gxfxcxdxbxegedabagaced 이 값은 두 글자씩 세트인데, 앞글자는 글자색이고, 뒷글자는 배경색이다. 색상은 다음과 같고,
 
