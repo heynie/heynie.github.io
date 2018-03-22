@@ -23,7 +23,7 @@ PS1='\[\e[0;33m\]\u\[\e[0m\]@\[\e[0;32m\]\h\[\e[0m\]:\[\e[0;34m\]\w\[\e[0m\]\$ '
 ```
 <br>
 
-<img src="/img/coloring-bash.png" alt="coloring bash" width="100%">
+<img src="/img/bash/coloring-bash.png" alt="coloring bash" width="100%">
 
 완성!
 

@@ -53,17 +53,19 @@ layout: default
 
       {% include disqus.html %}
 
-      <div class="clearfix">
 
-        {% if page.previous.url %}
-        <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline"> Post</span></a>
-        {% endif %}
-        <!--<a class="btn btn-primary btn-list-custom" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}"><span class="d-none d-md-inline">List</span></a>-->
-        {% if page.next.url %}
-        <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline"> Post</span> &rarr;</a>
-        {% endif %}
+      <!--카테고리별로 pagination을 따로 만들어야 하는데 해결이 안되므로 없앰..ㅎ-->
+      <!--<div class="clearfix">-->
 
-      </div>
+        <!--{% if page.previous.url %}-->
+        <!--<a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline"> Post</span></a>-->
+        <!--{% endif %}-->
+        <!--&lt;!&ndash;<a class="btn btn-primary btn-list-custom" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}"><span class="d-none d-md-inline">List</span></a>&ndash;&gt;-->
+        <!--{% if page.next.url %}-->
+        <!--<a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline"> Post</span> &rarr;</a>-->
+        <!--{% endif %}-->
+
+      <!--</div>-->
 
     </div>
   </div>

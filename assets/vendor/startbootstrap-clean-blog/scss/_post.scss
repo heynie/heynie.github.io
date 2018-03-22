@@ -8,9 +8,10 @@
       color: $primary;
     }
     > .post-title {
-      font-size: 30px;
-      margin-top: 30px;
+      font-size: 25px;
+      margin-top: 10px;
       margin-bottom: 10px;
+      font-weight: 700;
     }
     > .post-subtitle {
       font-weight: 300;
@@ -19,9 +20,10 @@
     }
   }
   > .post-meta {
-    font-size: 15px;
+    font-size: 13px;
     font-style: italic;
     margin-top: 0;
+    margin-bottom: 10px;
     color: $gray-600;
     > a {
       text-decoration: none;
@@ -36,7 +38,7 @@
   @media only screen and (min-width: 768px) {
     > a {
       > .post-title {
-        font-size: 30px;
+        font-size: 25px;
       }
     }
   }
