@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Coloring Bash"
+title:      "bash에 색 넣기"
 subtitle:   "bash를 예쁘게 꾸며보자~"
 date:       2018-01-28 18:10:00 +0900
 background: '/img/universe.jpg'
 comments:   true
-categories: bash
+categories: etc
 ---
 
 최근에 ubuntu bash를 사용했는데 기본적으로 폰트에 색깔이 있는 것을 보고 내 bash도 꾸미고 싶어졌다. 색깔이 마음에 쏙 드는 건 아니지만 똑같은 색깔로 나오는 것보다는 보기 편해서 너무 좋다! 방법도 아주 간단하다.
