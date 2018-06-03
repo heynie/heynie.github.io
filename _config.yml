@@ -9,6 +9,7 @@ url:               "https://heynie.github.io"
 #twitter_username:  SBootstrap
 github_username:   heynie
 #facebook_username: StartBootstrap
+g-analytics: UA-120238987-1
 
 # Build settings
 markdown:          kramdown
