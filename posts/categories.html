@@ -9,13 +9,65 @@ background: '/img/bg-post.jpg'
             <!--<a href="{{"/posts/categories" | relative_url }}">CATEGORIES</a>-->
             <!--<div class="dropdown-divider"></div>-->
 <div>
-    <a href="{{"/posts" | relative_url }}">All</a><br>
+    <article class="post-preview">
+        <h2 class="post-title category-align-center">
+            <a href="{{"/posts" | relative_url }}">All</a><br>
+        </h2>
+    </article>
+
+
+{% for post in paginator.posts %}
+
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+      <h2 class="post-title">{{ post.title }}</h2>
+      <!--{% if post.subtitle %}-->
+      <!--<h3 class="post-subtitle">{{ post.subtitle }}</h3>-->
+      <!--{% else %}-->
+      <!--<h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>-->
+      <!--{% endif %}-->
+    </a>
+  </article>
+
+  <hr>
+
+{% endfor %}
+
+
+
+
+
+    <hr>
     <!--<div class="dropdown-divider"></div>-->
     <!--<a class="dropdown-item dd-item-custom" href="{{"/category/bash" | relative_url }}">BASH</a>-->
-    <a href="{{"/category/PE" | relative_url }}">PE</a><br>
-    <a href="{{"/category/etc" | relative_url }}">ETC</a><br>
+    <article class="post-preview">
+        <h2 class="post-title category-align-center">
+            <a href="{{"/category/PE" | relative_url }}">PE</a><br>
+        </h2>
+    </article>
+    <br>
+    <article class="post-preview">
+        <h2 class="post-title category-align-center">
+            <a href="{{"/category/etc" | relative_url }}">ETC</a><br>
+        </h2>
+    </article>
+    <hr>
     <!--<div class="dropdown-divider"></div>-->
-    <a href="{{"/category/diary" | relative_url }}">DIARY</a><br>
-    <a href="{{"/category/example" | relative_url }}">EXAMPLE</a><br>
-    <a href="{{"/category/munich" | relative_url }}">MUNICH</a><br>
+    <article class="post-preview">
+        <h2 class="post-title category-align-center">
+            <a href="{{"/category/diary" | relative_url }}">DIARY</a><br>
+        </h2>
+    </article>
+    <br>
+    <article class="post-preview">
+        <h2 class="post-title category-align-center">
+            <a href="{{"/category/example" | relative_url }}">EXAMPLE</a><br>
+        </h2>
+    </article>
+    <hr>
+    <article class="post-preview">
+        <h2 class="post-title category-align-center">
+            <a href="{{"/category/munich" | relative_url }}">MUNICH</a><br>
+        </h2>
+    </article>
 </div>

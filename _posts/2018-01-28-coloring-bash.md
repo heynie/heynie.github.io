@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "bash에 색 넣기"
-subtitle:   "bash를 예쁘게 꾸며보자~"
+title:      "Coloring bash"
+subtitle:   " "
 date:       2018-01-28 18:10:00 +0900
 background: '/img/universe.jpg'
 comments:   true
