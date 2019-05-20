@@ -5,7 +5,7 @@ subtitle:   " "
 date:       2018-07-12 10:46:00 +0900
 background: '/img/universe.jpg'
 comments:   true
-categories: etc
+categories: python
 ---
 
 
