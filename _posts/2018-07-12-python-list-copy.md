@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Python에서 변수를 copy하고 싶을 때"
+title:      "Python에서 list를 copy하고 싶을 때"
 subtitle:   " "
 date:       2018-07-12 10:46:00 +0900
 background: '/img/universe.jpg'
@@ -9,7 +9,7 @@ categories: python
 ---
 
 
-변수나 데이터를 copy해서 코드를 실행해봐야 하는 경우가 있다. 그런데 아래 코드처럼 실행하면,
+list를 copy해야 하는 경우가 있다. 그런데 아래 코드처럼 실행하면,
 
 ```python
 >>> list1 = [1,3,2,5,4]
