@@ -9,10 +9,22 @@ url:               "https://heynie.github.io"
 #twitter_username:  SBootstrap
 github_username:   heynie
 #facebook_username: StartBootstrap
-g-analytics: UA-120238987-1
+g-analytics:   UA-120238987-1
 
 # Build settings
 markdown:          kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
 paginate:          8
 paginate_path:     "/posts/page:num/"
 plugins:
@@ -20,3 +32,4 @@ plugins:
   - jekyll-paginate
 
 disqus: heynie
+
